@@ -40,8 +40,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
-
+A child’s drawing is ruined by spilled water, but a robot offers to recreate it using AI. This study explores AI-assisted creativity, integrating text-to-image models like DALL-E 3 and Visual ChatGPT to enhance artistic collaboration, prompt adherence, and co-creativity in human-machine interactions. Our findings highlight AI’s generation in creative restoration.
 Example of how to make a list:
 There are many great README templates available on GitHub.
 
@@ -109,7 +108,7 @@ Figure 6. description for Figure 6
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
+Your Name -shadkamielnaz@tamu.edu
 
 Personal Website: [https://website.com](https://website.com)
 
