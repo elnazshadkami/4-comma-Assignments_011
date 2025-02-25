@@ -58,10 +58,10 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+The AI is used in 4-Koma (Yonkoma) manga to mix old storytelling with new technology. Yonkoma manga started in Japan in the early 20th century. It is famous because it tells short but strong stories in four panels. In the past, it was drawn by hand for newspapers, but later, it became digital. AI can also be used to make it, creating new ways to produce manga.
+The reason for using AI is that Yonkoma manga has a simple and structured way of telling a story. AI-generated images help automate the process and keep the style the same across all panels. Instead of drawing by hand, DALL-E 3 makes high-quality images based on descriptions. Then, Visual ChatGPT is used to fix the images, ensuring they look more connected and consistent.
+AI is better than manual drawing because it is faster, more flexible, and more precise. However, there are problems, such as ensuring all images match the story and maintaining artistic consistency. All text prompts and AI settings are saved to fix this so others can repeat the process correctly.
+AI-generated images have greatly improved, from simple pictures to highly detailed artwork. This study shows that AI can help creativity and introduce new ways to make manga stories.
 
 How to use subsection:
 
