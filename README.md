@@ -71,7 +71,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Methodology
 
-Your Methodology and Related Works here: 200 words here.
+The story is divided into four sections to integrate AI-driven creativity into a 4-Koma (Yonkoma) manga, with a key sentence for each representing a panel. This structured approach helps maintain narrative clarity and allows for effective visual production.
+The process begins by defining and breaking the main idea into four structured descriptions. Each description includes essential details about composition, character expressions, and the overall scene setting. These structured descriptions are then fed into DALL-E 3, a model selected for its high accuracy in following text instructions and generating high-quality, visually appealing images.
+Additionally, Visual ChatGPT is employed to refine the generated images gradually, ensuring consistency in artistic style across all panels. This method is chosen over manual drawing because AI-based tools provide faster iterations, enhanced creative flexibility, and improved precision. AI models like DALL-E 3 can generate well-aligned, accurate images when guided by detailed prompts and structured input. To ensure that others can understand the results of this process, all AI-generated images from OpenAI were carefully documented to make it easy to reproduce the same method. This study demonstrates that blending structured storytelling with AI-generated visuals significantly enhances creative collaboration between humans and machines, paving the way for future innovations.
 
 [![4-comma][images-fig3]](https://example.com)
 
