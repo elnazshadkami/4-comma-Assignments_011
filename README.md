@@ -140,8 +140,8 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: image/fig1.png
-[images-fig2]: image/fig2.jpg
-[images-fig3]: image/fig3.jpg
+[images-fig2]: image/fig2.png
+[images-fig3]: image/fig3.png
 [images-fig4]: image/fig4.png
 [images-fig5]: image/fig5.png
 [images-fig6]: image/fig6.png
