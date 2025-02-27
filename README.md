@@ -51,9 +51,9 @@ Here's why:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-[![4-comma][images-fig2]](https://example.com)
 
-Figure 2. Related works in this domain. 
+
+
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -79,23 +79,21 @@ Additionally, Visual ChatGPT is employed to refine the generated images graduall
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
-[![4-comma][images-fig4]](https://example.com)
 
-Figure 4. description for Figure 5
+
+
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
-[![4-comma][images-fig5]](https://example.com)
 
-Figure 5. description for Figure 5
+
 
 ## Conclusion
 Your Conclusion here: 50 words here
 
-[![4-comma][images-fig6]](https://example.com)
 
-Figure 6. description for Figure 6
+
 
 <!-- Bibliography -->
 ## Bibliography 
@@ -111,8 +109,6 @@ Figure 6. description for Figure 6
 ## Contact
 
 Your Name -shadkamielnaz@tamu.edu
-
-Personal Website: [https://website.com](https://website.com)
 
 
 
@@ -140,11 +136,9 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: image/fig1.png
-[images-fig2]: image/fig2.png
+
 [images-fig3]: image/fig3.png
-[images-fig4]: image/fig4.png
-[images-fig5]: image/fig5.png
-[images-fig6]: image/fig6.png
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
