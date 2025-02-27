@@ -62,7 +62,7 @@ The AI is used in 4-Koma (Yonkoma) manga to mix old storytelling with new techno
 The reason for using AI is that Yonkoma manga has a simple and structured way of telling a story. AI-generated images help automate the process and keep the style the same across all panels. Instead of drawing by hand, DALL-E 3 makes high-quality images based on descriptions. Then, Visual ChatGPT is used to fix the images, ensuring they look more connected and consistent.
 AI is better than manual drawing because it is faster, more flexible, and more precise. However, there are problems, such as ensuring all images match the story and maintaining artistic consistency. All text prompts and AI settings are saved to fix this so others can repeat the process correctly.
 AI-generated images have greatly improved, from simple pictures to highly detailed artwork. This study shows that AI can help creativity and introduce new ways to make manga stories.
-
+[![4-comma][images-fig3]](https://example.com)
 How to use subsection:
 
 ### Built With
@@ -75,7 +75,7 @@ The story is divided into four sections to integrate AI-driven creativity into a
 The process begins by defining and breaking the main idea into four structured descriptions. Each description includes essential details about composition, character expressions, and the overall scene setting. These structured descriptions are then fed into DALL-E 3, a model selected for its high accuracy in following text instructions and generating high-quality, visually appealing images.
 Additionally, Visual ChatGPT is employed to refine the generated images gradually, ensuring consistency in artistic style across all panels. This method is chosen over manual drawing because AI-based tools provide faster iterations, enhanced creative flexibility, and improved precision. AI models like DALL-E 3 can generate well-aligned, accurate images when guided by detailed prompts and structured input. To ensure that others can understand the results of this process, all AI-generated images from OpenAI were carefully documented to make it easy to reproduce the same method. This study demonstrates that blending structured storytelling with AI-generated visuals significantly enhances creative collaboration between humans and machines, paving the way for future innovations.
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig4]](https://example.com)
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
@@ -86,13 +86,13 @@ Figure 3. Methodology and Workflow: This figure should provide a comprehensive o
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
-[![4-comma][images-fig4]](https://example.com)
+[![4-comma][images-fig5]](https://example.com)
 
 
 ## Conclusion
 Your Conclusion here: 50 words here
 
-[![4-comma][images-fig5]](https://example.com)
+[![4-comma][images-fig6]](https://example.com)
 
 
 <!-- Bibliography -->
