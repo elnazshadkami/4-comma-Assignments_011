@@ -57,7 +57,7 @@ A child’s drawing is ruined by spilled water, but a robot offers to recreate i
 
 
 
-*Figure 2. Related works in this domain.*
+
 
 AI is transforming the creation of Yonkoma (4-Koma) manga by combining traditional storytelling with modern technology. Yonkoma manga, which began in early 20th-century Japan, tells short but powerful stories in four panels. Originally hand-drawn and later digitized, it integrates AI tools to improve the process.
 Advanced AI models like DALL-E 3 generate high-quality manga images from text descriptions[1]. This helps maintain a consistent artistic style across panels. Additionally, Visual ChatGPT allows artists to refine AI-generated images by providing feedback and adjusting[2].
