@@ -62,9 +62,9 @@ The AI is used in 4-Koma (Yonkoma) manga to mix old storytelling with new techno
 The reason for using AI is that Yonkoma manga has a simple and structured way of telling a story. AI-generated images help automate the process and keep the style the same across all panels. Instead of drawing by hand, DALL-E 3 makes high-quality images based on descriptions. Then, Visual ChatGPT is used to fix the images, ensuring they look more connected and consistent.
 AI is better than manual drawing because it is faster, more flexible, and more precise. However, there are problems, such as ensuring all images match the story and maintaining artistic consistency. All text prompts and AI settings are saved to fix this so others can repeat the process correctly.
 AI-generated images have greatly improved, from simple pictures to highly detailed artwork. This study shows that AI can help creativity and introduce new ways to make manga stories.
-[![4-comma][images-fig3]](https://example.com)
-How to use subsection:
 
+How to use subsection:
+[![4-comma][images-fig3]](https://example.com)
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
