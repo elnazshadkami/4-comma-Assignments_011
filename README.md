@@ -75,7 +75,7 @@ Additionally, Visual ChatGPT is employed to refine the generated images graduall
 A Yonkoma (4-Koma) manga was created, successfully conveying a complete story in just a few frames. Key sentences were defined to emphasize plot points, and through interactive sessions, images were generated to maintain the narrative flow, resembling a dynamic movie sequence. If the project were to be repeated, additional AI models would be incorporated to achieve more diverse visual outputs. Detailed images were effectively produced when clear, step-by-step guidance was provided. For future projects, a more extensive story will be developed, and a short film adaptation will be created using multiple AI tools to enhance creativity and ensure artistic consistency.
 
 ## Conclusion
-Your Conclusion here: 50 words here
+This study highlights AI’s transformative function in Yonkoma manga creation. The most memorable insight was AI’s ability to maintain artistic consistency while enhancing storytelling. By integrating structured prompts and iterative refinement, AI fosters co-creativity. Future advancements will further expand creative possibilities, redefining the relationship between human creativity and machine intelligence.
 
 <!-- Bibliography -->
 ## Bibliography
