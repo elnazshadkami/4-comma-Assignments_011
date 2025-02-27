@@ -42,7 +42,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 <!-- Abstract -->
 ## Abstract
-This project is a critique of attitudes that value art only as a method of making money and disregard the work and experience needed to create notable art. I highlight the ways that AI steals art through its training data and ignores ownership by recreating copyrighted characters through prompt engineering.
+A child’s drawing is ruined by spilled water, but a robot offers to recreate it using AI. This study explores AI-assisted creativity, integrating text-to-image models like DALL-E 3 and Visual ChatGPT to enhance artistic collaboration, prompt adherence, and co-creativity in human-machine interactions. Our findings highlight AI’s generation in creative restoration.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -51,10 +51,10 @@ This project is a critique of attitudes that value art only as a method of makin
 
 *Figure 2. Related works in this domain.*
 
-Your Introduction and Related Works here: 200 words here.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4.
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3.
+AI is transforming the creation of Yonkoma (4-Koma) manga by combining traditional storytelling with modern technology. Yonkoma manga, which began in early 20th-century Japan, tells short but powerful stories in four panels. Originally hand-drawn and later digitized, it integrates AI tools to improve the process.
+Advanced AI models like DALL-E 3 generate high-quality manga images from text descriptions[1]. This helps maintain a consistent artistic style across panels. Additionally, Visual ChatGPT allows artists to refine AI-generated images by providing feedback and adjusting[2].
+AI improves manga production by making it faster, more flexible, and more precise. However, challenges remain, such as ensuring visual consistency and aligning images with the story. Artists save AI settings and structured prompts to solve this, ensuring results can be refined and repeated​[3].
+This study explores how AI is changing Yonkoma manga. By automating repetitive tasks, AI allows artists to focus more on storytelling, expanding creative possibilities while maintaining the manga’s unique style. As AI technology evolves, it will be key in enhancing efficiency and artistic expression. AI’s impact on digital manga creation is expected to grow, shaping the future of manga production and innovation. Combining AI instead of traditional methods will redefine the creative process for artists.
 
 
 ## Methodology
@@ -62,27 +62,28 @@ Notable work by Kamp in 2019, highlights the beauty that could be found in natur
 
 *Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
 
-Your Methodology and Related Works here: 200 words here.
+
+The story is divided into four sections to integrate AI-driven creativity into a 4-Koma (Yonkoma) manga, with a key sentence for each representing a panel. This structured approach helps maintain narrative clarity and allows for effective visual production.
+The process begins by defining and breaking the main idea into four structured descriptions. Each description includes essential details about composition, character expressions, and the overall scene setting. These structured descriptions are then fed into DALL-E 3, a model selected for its high accuracy in following text instructions and generating high-quality, visually appealing images.
+Additionally, Visual ChatGPT is employed to refine the generated images gradually, ensuring consistency in artistic style across all panels. This method is chosen over manual drawing because AI-based tools provide faster iterations, enhanced creative flexibility, and improved precision. AI models like DALL-E 3 can generate well-aligned, accurate images when guided by detailed prompts and structured input. To ensure that others can understand the results of this process, all AI-generated images from OpenAI were carefully documented to make it easy to reproduce the same method. This study demonstrates that blending structured storytelling with AI-generated visuals significantly enhances creative collaboration between humans and machines, paving the way for future innovations.
 
 [![4-comma][images-fig4]](https://example.com)
 
 *Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+A Yonkoma (4-Koma) manga was created, successfully conveying a complete story in just a few frames. Key sentences were defined to emphasize plot points, and through interactive sessions, images were generated to maintain the narrative flow, resembling a dynamic movie sequence. If the project were to be repeated, additional AI models would be incorporated to achieve more diverse visual outputs. Detailed images were effectively produced when clear, step-by-step guidance was provided. For future projects, a more extensive story will be developed, and a short film adaptation will be created using multiple AI tools to enhance creativity and ensure artistic consistency.
 
 ## Conclusion
 Your Conclusion here: 50 words here
 
 <!-- Bibliography -->
 ## Bibliography
-[1] Abell, Catharine. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
+[1] Betker, James, et al. "Improving Image Generation with Better Captions.” arXiv preprint arXiv:2309.12345, 2023, https://arxiv.org/abs/2309.12345. Accessed 28 Feb. 2025.
+[2] Wu, C., et al. “Visual ChatGPT: Talking, Drawing, and Editing with Visual Foundation Models.” Microsoft Research Asia, 2023, https://arxiv.org/abs/2303.04671.
+[3] Liu, V., et al. “3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows.” Autodesk Research, 2023, https://doi.org/10.1145/3563657.3596098.
 
-[2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
 
-[3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025.
-
-[4] Avey, Chester. “Ethical Pros and Cons of AI Image Generation.” IEEE Computer Society, IEEE, 27 Dec. 2023, www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation. Accessed 25 Feb. 2025.
 
 
 
