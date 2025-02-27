@@ -53,7 +53,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 
 
-
+[![4-comma][images-fig2]](https://example.com)
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -86,13 +86,13 @@ Figure 3. Methodology and Workflow: This figure should provide a comprehensive o
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
-
+[![4-comma][images-fig4]](https://example.com)
 
 
 ## Conclusion
 Your Conclusion here: 50 words here
 
-
+[![4-comma][images-fig5]](https://example.com)
 
 
 <!-- Bibliography -->
@@ -136,8 +136,11 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: image/fig1.png
-
+[images-fig2]: image/fig2.png
 [images-fig3]: image/fig3.png
+[images-fig3]: image/fig4.png
+[images-fig3]: image/fig5.png
+[images-fig3]: image/fig6.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
