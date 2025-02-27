@@ -60,7 +60,7 @@ This study explores how AI is changing Yonkoma manga. By automating repetitive t
 ## Methodology
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
+*Figure 3. This story is about a child and a girl. It is made step by step using DALL-E 3 AI. Each part of the story has clear text, and OpenAI makes the pictures from it.*
 
 
 The story is divided into four sections to integrate AI-driven creativity into a 4-Koma (Yonkoma) manga, with a key sentence for each representing a panel. This structured approach helps maintain narrative clarity and allows for effective visual production.
