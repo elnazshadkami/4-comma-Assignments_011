@@ -30,7 +30,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Kennedy Patterson</a>
+    <a href="https://website.com">elnazshadkami</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -91,7 +91,7 @@ Your Conclusion here: 50 words here
 
 Elnaz Shadkami - shadkamielnaz@tamu.edu
 
-Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatterson.artstation.com/)
+Personal Website:
 
 
 
