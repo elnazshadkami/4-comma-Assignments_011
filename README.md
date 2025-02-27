@@ -1,5 +1,7 @@
-# 4-comma-Assignments_01
-Assignments 1 , VIZA 626 Generative Art &amp; Design (Spring 2025)
+
+# 4-Comma-Assignment_01
+Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
@@ -20,7 +22,7 @@ Assignments 1 , VIZA 626 Generative Art &amp; Design (Spring 2025)
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: My Title Here</h3>
+  <h3 align="center">4-Comma: Ethics in AI Art</h3>
 
   <p align="center">
     Short two sentence project desctiption here!
@@ -28,7 +30,7 @@ Assignments 1 , VIZA 626 Generative Art &amp; Design (Spring 2025)
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://website.com">Kennedy Patterson</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -36,79 +38,60 @@ Assignments 1 , VIZA 626 Generative Art &amp; Design (Spring 2025)
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
+*Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate.* *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!*
 
 <!-- Abstract -->
 ## Abstract
-A child’s drawing is ruined by spilled water, but a robot offers to recreate it using AI. This study explores AI-assisted creativity, integrating text-to-image models like DALL-E 3 and Visual ChatGPT to enhance artistic collaboration, prompt adherence, and co-creativity in human-machine interactions. Our findings highlight AI’s generation in creative restoration.
-Example of how to make a list:
-There are many great README templates available on GitHub.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-
-
-[![4-comma][images-fig2]](https://example.com)
+This project is a critique of attitudes that value art only as a method of making money and disregard the work and experience needed to create notable art. I highlight the ways that AI steals art through its training data and ignores ownership by recreating copyrighted characters through prompt engineering.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-The AI is used in 4-Koma (Yonkoma) manga to mix old storytelling with new technology. Yonkoma manga started in Japan in the early 20th century. It is famous because it tells short but strong stories in four panels. In the past, it was drawn by hand for newspapers, but later, it became digital. AI can also be used to make it, creating new ways to produce manga.
-The reason for using AI is that Yonkoma manga has a simple and structured way of telling a story. AI-generated images help automate the process and keep the style the same across all panels. Instead of drawing by hand, DALL-E 3 makes high-quality images based on descriptions. Then, Visual ChatGPT is used to fix the images, ensuring they look more connected and consistent.
-AI is better than manual drawing because it is faster, more flexible, and more precise. However, there are problems, such as ensuring all images match the story and maintaining artistic consistency. All text prompts and AI settings are saved to fix this so others can repeat the process correctly.
-AI-generated images have greatly improved, from simple pictures to highly detailed artwork. This study shows that AI can help creativity and introduce new ways to make manga stories.
+[![4-comma][images-fig2]](https://example.com)
 
-How to use subsection:
-[![4-comma][images-fig3]](https://example.com)
-### Built With
+*Figure 2. Related works in this domain.*
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Your Introduction and Related Works here: 200 words here.
+
+Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4.
+Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3.
+
 
 ## Methodology
+[![4-comma][images-fig3]](https://example.com)
 
-The story is divided into four sections to integrate AI-driven creativity into a 4-Koma (Yonkoma) manga, with a key sentence for each representing a panel. This structured approach helps maintain narrative clarity and allows for effective visual production.
-The process begins by defining and breaking the main idea into four structured descriptions. Each description includes essential details about composition, character expressions, and the overall scene setting. These structured descriptions are then fed into DALL-E 3, a model selected for its high accuracy in following text instructions and generating high-quality, visually appealing images.
-Additionally, Visual ChatGPT is employed to refine the generated images gradually, ensuring consistency in artistic style across all panels. This method is chosen over manual drawing because AI-based tools provide faster iterations, enhanced creative flexibility, and improved precision. AI models like DALL-E 3 can generate well-aligned, accurate images when guided by detailed prompts and structured input. To ensure that others can understand the results of this process, all AI-generated images from OpenAI were carefully documented to make it easy to reproduce the same method. This study demonstrates that blending structured storytelling with AI-generated visuals significantly enhances creative collaboration between humans and machines, paving the way for future innovations.
+*Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
+
+Your Methodology and Related Works here: 200 words here.
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
-
-
-
-
+*Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
-[![4-comma][images-fig5]](https://example.com)
-
-
 ## Conclusion
 Your Conclusion here: 50 words here
 
-[![4-comma][images-fig6]](https://example.com)
-
-
 <!-- Bibliography -->
-## Bibliography 
-[1] Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. *Copy of MLA format
+## Bibliography
+[1] Abell, Catharine. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
 
-[2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
+[2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
 
-[3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
+[3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025.
+
+[4] Avey, Chester. “Ethical Pros and Cons of AI Image Generation.” IEEE Computer Society, IEEE, 27 Dec. 2023, www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation. Accessed 25 Feb. 2025.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name -shadkamielnaz@tamu.edu
+Elnaz Shadkami - shadkamielnaz@tamu.edu
+
+Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatterson.artstation.com/)
 
 
 
@@ -135,13 +118,12 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[images-fig1]: image/fig1.png
-[images-fig2]: image/fig2.png
-[images-fig3]: image/fig3.png
-[images-fig3]: image/fig4.png
-[images-fig3]: image/fig5.png
-[images-fig3]: image/fig6.png
-
+[images-fig1]: images/fig1.png
+[images-fig2]: images/fig2.png
+[images-fig3]: images/fig3.png
+[images-fig4]: images/fig4.png
+[images-fig5]: images/fig5.png
+[images-fig6]: images/fig6.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -157,4 +139,4 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
