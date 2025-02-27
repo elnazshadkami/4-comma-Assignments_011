@@ -55,7 +55,7 @@ A child’s drawing is ruined by spilled water, but a robot offers to recreate i
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-[![4-comma][images-fig2]](https://example.com)
+
 
 *Figure 2. Related works in this domain.*
 
