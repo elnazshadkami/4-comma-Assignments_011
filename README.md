@@ -80,7 +80,9 @@ Your Conclusion here: 50 words here
 <!-- Bibliography -->
 ## Bibliography
 [1] Betker, James, et al. "Improving Image Generation with Better Captions.” arXiv preprint arXiv:2309.12345, 2023, https://arxiv.org/abs/2309.12345. Accessed 28 Feb. 2025.
+
 [2] Wu, C., et al. “Visual ChatGPT: Talking, Drawing, and Editing with Visual Foundation Models.” Microsoft Research Asia, 2023, https://arxiv.org/abs/2303.04671.
+
 [3] Liu, V., et al. “3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows.” Autodesk Research, 2023, https://doi.org/10.1145/3563657.3596098.
 
 
