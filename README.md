@@ -38,13 +38,13 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 [![4-comma][images-fig1]](https://example.com)
 
 *Figure 1.
-Cell 1: The kid was drawing, but water accidentally spilled on the sheet.
+cell 1: Water spills on the kid’s drawing.
 
-cell 2: The robot approaches and talks to her. She explains what happened. (The girl looks sad as she tells the robot about the ruined drawing.)
+cell 2: A robot approaches. The sad girl explains.
 
-cell 3: The robot draws a new version of her artwork and shows it to her. (The robot displays a recreated version on a screen or prints it out.)
+cell 3: The robot recreates the drawing.
 
-cell 4: She sees the drawing and is overjoyed. 
+cell3: She sees it and beams with joy!
 
 
 <!-- Abstract -->
