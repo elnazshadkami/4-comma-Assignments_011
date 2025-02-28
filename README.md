@@ -25,7 +25,6 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center">4-Comma: AI ReDraw >
 
   <p align="center">
-    Short two sentence project desctiption here!
     <br />
     <a href="https://github.com/elnazshadkami/4-comma-Assignments_011/blob/main/PDF/PDF.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
