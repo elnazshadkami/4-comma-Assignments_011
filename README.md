@@ -42,7 +42,7 @@ I created a four-panel yonkoma  where a child’s drawing is ruined by spilled w
 
 *Figure 1.
 
-My idea is that AI can make any kind of art and be a tool for beginners. It helps people create, even if they have no experience. AI is not just for experts—it makes creativity easier for everyone.
+My idea is that AI can make any kind of art and be a tool for anyone. It helps people create, even if they have no experience. AI is not just for experts—it makes creativity easier for everyone.
 
 <!-- Abstract -->
 ## Abstract
