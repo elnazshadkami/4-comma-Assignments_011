@@ -65,6 +65,7 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 [![4-comma][images-fig2]](https://example.com)
 
 *Figure 2. key sentence for each representing a panel*
+
 [![4-comma][images-fig3]](https://example.com)
 *Figure 3. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
