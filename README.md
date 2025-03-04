@@ -22,7 +22,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: BeginnerSketch AI >
+  <h3 align="center">4-Comma: Sketch AI >
 
     
 I created a four-panel yonkoma  where a child’s drawing is ruined by spilled water. A robot offers to recreate it using AI, and the curious child watches as a new version is generated. In the final panel, the child holds the printed AI-made drawing and smiles—it feels just like their original. This comic highlights how AI can be a helpful tool, even for those unfamiliar with it, supporting creativity in new ways.
