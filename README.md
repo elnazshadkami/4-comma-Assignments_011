@@ -22,7 +22,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: AI ReDraw >
+  <h3 align="center">4-Comma: BeginnerSketch AI >
 
     
 I created a four-panel yonkoma comic where a child’s drawing is ruined by spilled water. A robot offers to recreate it using AI, and the curious child watches as a new version is generated. In the final panel, the child holds the printed AI-made drawing and smiles—it feels just like their original. This comic highlights how AI can be a helpful tool, even for those unfamiliar with it, supporting creativity in new ways.
@@ -41,12 +41,12 @@ I created a four-panel yonkoma comic where a child’s drawing is ruined by spil
 [![4-comma][images-fig1]](https://example.com)
 
 *Figure 1.
-I created a four-panel yonkoma comic where a child’s drawing is ruined by spilled water. A robot offers to recreate it using AI, and the curious child watches as a new version is generated. In the final panel, the child holds the printed AI-made drawing and smiles—it feels just like their original. This comic highlights how AI can be a helpful tool, even for those unfamiliar with it, supporting creativity in new ways.
 
+My idea is that AI can make any kind of art and be a tool for beginners. It helps people create, even if they have no experience. AI is not just for experts—it makes creativity easier for everyone.
 
 <!-- Abstract -->
 ## Abstract
-A child’s drawing is ruined by spilled water, but a robot offers to recreate it using AI. This study explores AI-assisted creativity, integrating text-to-image models like DALL-E 3 and Visual ChatGPT to enhance artistic collaboration, prompt adherence, and co-creativity in human-machine interactions. Our findings highlight AI’s generation in creative restoration.
+The child’s drawing is ruined when water is spilled on it. However, a robot offers to recreate it using AI. In this study, AI-assisted creativity is explored through DALL-E 3 and Visual ChatGPT. Artistic collaboration and co-creativity are examined. It is found that AI supports creative restoration, even for beginners.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -55,11 +55,11 @@ A child’s drawing is ruined by spilled water, but a robot offers to recreate i
 
 
 
-AI is transforming the creation of Yonkoma (4-Koma) manga by combining traditional storytelling with modern technology. Yonkoma manga, which began in early 20th-century Japan, tells short but powerful stories in four panels. Originally hand-drawn and later digitized, it integrates AI tools to improve the process.
-Advanced AI models like DALL-E 3 generate high-quality manga images from text descriptions[1]. This helps maintain a consistent artistic style across panels. Additionally, Visual ChatGPT allows artists to refine AI-generated images by providing feedback and adjusting[2].
-AI improves manga production by making it faster, more flexible, and more precise. However, challenges remain, such as ensuring visual consistency and aligning images with the story. Artists save AI settings and structured prompts to solve this, ensuring results can be refined and repeated​[3].
-This study explores how AI is changing Yonkoma manga. By automating repetitive tasks, AI allows artists to focus more on storytelling, expanding creative possibilities while maintaining the manga’s unique style. As AI technology evolves, it will be key in enhancing efficiency and artistic expression. AI’s impact on digital manga creation is expected to grow, shaping the future of manga production and innovation. Combining AI instead of traditional methods will redefine the creative process for artists.
+AI is changing how Yonkoma (4-Koma) manga is made by mixing old storytelling with new technology. Yonkoma manga started in Japan in the early 20th century and tells short but strong stories in four panels. At first, people drew it by hand, but later, it became digital. Now, AI tools help improve the process. Advanced AI models like DALL-E 3 create high-quality manga images from text[1]. This ensures all panels have the same artistic style. Also, Visual ChatGPT lets people modify AI-made images by giving feedback and making adjustments[2].
 
+AI makes manga production faster, more flexible, and more accurate. However, problems remain, such as keeping a stable visual style and making sure images fit the story. To fix this, people save AI settings and structured prompts to get consistent results[3].
+
+This study explores how AI is changing Yonkoma manga. AI automates repetitive tasks, allowing people to focus more on storytelling. This helps them be more creative while keeping the manga’s unique style. As AI improves, it will enhance efficiency and artistic expression. AI will play a bigger role in digital manga and change how it is created in the future. Using AI instead of old methods will redefine manga creation.
 
 ## Methodology
 [![4-comma][images-fig2]](https://example.com)
