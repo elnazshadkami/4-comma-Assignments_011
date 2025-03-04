@@ -29,7 +29,7 @@ I created a four-panel yonkoma  where a child’s drawing is ruined by spilled w
 
   <p align="center">
     <br />
-    <a href="https:https://github.com/elnazshadkami/4-comma-Assignments_011/blob/main/PDF/PDF.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/elnazshadkami/4-comma-Assignments_011/blob/main/PDF/PDF.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">elnazshadkami</a>
