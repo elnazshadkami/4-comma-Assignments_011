@@ -59,9 +59,10 @@ This study explores how AI is changing Yonkoma manga. By automating repetitive t
 
 
 ## Methodology
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig2]](https://example.com)
 
 *Figure 3. This story is about a girl and a robot. It is made step by step using DALL-E 3 AI. Each part of the story has clear text, and OpenAI makes the pictures from it.*
+[![4-comma][images-fig2]](https://example.com)
 
 
 The story is divided into four sections to integrate AI-driven creativity into a 4-Koma (Yonkoma) manga, with a key sentence for each representing a panel. This structured approach helps maintain narrative clarity and allows for effective visual production.
@@ -119,7 +120,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: images/fig1.png
-
+[images-fig2]: images/fig2.png
 [images-fig3]: images/fig3.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
