@@ -46,8 +46,7 @@ My idea is that AI can make any kind of art and be a tool for anyone. It helps p
 
 <!-- Abstract -->
 ## Abstract
-The child’s drawing is ruined when water is spilled on it. However, a robot offers to recreate it using AI. In this study, AI-assisted creativity is explored through DALL-E 3 and Visual ChatGPT. Artistic collaboration and co-creativity are examined. It is found that AI supports creative restoration, even for beginners.
-
+This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawing is fixed using DALL·E 3 and Visual ChatGPT. AI is not only for automation but also supports creativity. It makes artistic work easier, helps beginners, and improves storytelling. Future research will develop AI for even better results.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
@@ -70,16 +69,17 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 *Figure 3. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
 
-The story is divided into four sections to integrate AI-driven creativity into a 4-Koma (Yonkoma) manga, with a key sentence for each representing a panel. This structured approach helps maintain narrative clarity and allows for effective visual production.
-The process begins by defining and breaking the main idea into four structured descriptions. Each description includes essential details about composition, character expressions, and the overall scene setting. These structured descriptions are then fed into DALL-E 3, a model selected for its high accuracy in following text instructions and generating high-quality, visually appealing images.
-Additionally, Visual ChatGPT is employed to refine the generated images gradually, ensuring consistency in artistic style across all panels. This method is chosen over manual drawing because AI-based tools provide faster iterations, enhanced creative flexibility, and improved precision. AI models like DALL-E 3 can generate well-aligned, accurate images when guided by detailed prompts and structured input. To ensure that others can understand the results of this process, all AI-generated images from OpenAI were carefully documented to make it easy to reproduce the same method. This study demonstrates that blending structured storytelling with AI-generated visuals significantly enhances creative collaboration between humans and machines, paving the way for future innovations.
-
+This project used AI to create a Yonkoma (4-panel) manga. The goal was to keep the story and images consistent and make the process easy to repeat. The story was divided into four panels, each showing a key moment. A short sentence was written to help AI generate accurate images for each scene.
+To ensure consistency, prompts included character expressions (sad, happy), objects (glass, spilled water, painting tools), actions (explaining, recreating), and the robot’s appearance (a screen on its chest). Prompts were tested and refined multiple times to improve results. Images were generated using DALL-E 3, but sometimes AI made mistakes. To fix this, prompts were adjusted, Visual ChatGPT was used for corrections like expressions and lighting, and sometimes, manual editing was needed.
+Challenges included keeping character details consistent, ensuring small objects like the glass or the girl’s hair color appeared correctly, and maintaining background and lighting continuity. These issues were solved using reference images, refined prompts, and use photoshop.
+AI was chosen instead of hand drawing because it was faster, more flexible, and allowed for easy modifications. Structured prompts ensured others could follow the same process and achieve similar results, making AI a strong alternative to traditional illustration methods.
 
 ## Result and Future Work
-A Yonkoma (4-Koma) manga was created, successfully conveying a complete story in just a few frames. Key sentences were defined to emphasize plot points, and through interactive sessions, images were generated to maintain the narrative flow, resembling a dynamic movie sequence. If the project were to be repeated, additional AI models would be incorporated to achieve more diverse visual outputs. Detailed images were effectively produced when clear, step-by-step guidance was provided. For future projects, a more extensive story will be developed, and a short film adaptation will be created using multiple AI tools to enhance creativity and ensure artistic consistency.
+this project studied how AI can help make Yonkoma (4-panel) manga, focusing on automatic storytelling and keeping images consistent. The child means human creativity, and the robot means AI and technology, showing how they can work together to make better stories.
+AI helped make the story clearer, but keeping the same style in all panels was challenging. Changing the prompts fixed some problems, but manual editing was still needed. People said the pictures were interesting but not very emotional. In the future, the focus will be on stronger feelings and different styles, leading to a short film using AI tools.
 
 ## Conclusion
-This study shows how AI changes Yonkoma manga creation. The most interesting part was how AI keeps the art style the same while improving storytelling. By using clear prompts and refining images step by step, AI helps creativity. In the future, AI will expand artistic possibilities and reshape human-machine collaboration.
+This study shows how AI changes Yonkoma manga by improving storytelling while maintaining the art style. It proves AI aids creativity, but challenges remain, such as ensuring image uniformity. In the future, AI should adapt to various styles, improving creativity while preserving the artist’s unique touch, balancing automation and expression.
 <!-- Bibliography -->
 ## Bibliography
 [1] Betker, James, et al. "Improving Image Generation with Better Captions.” arXiv preprint arXiv:2309.12345, 2023, https://arxiv.org/abs/2309.12345. Accessed 28 Feb. 2025.
