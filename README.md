@@ -22,7 +22,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: Sketch AI >
+  <h3 align="center">4-Comma: The Artist Robot >
 
     
 I created a four-panel Yonkoma about how AI helps restore a damaged drawing. In the story, a child’s drawing is ruined by spilled water. A robot offers to fix it using AI, and the child watches as a new version is created with DALL·E 3 and Visual ChatGPT. In the final panel, the child holds the printed AI-generated drawing and smiles;it looks just like their original. This comic explores how AI can support creative restoration, even for beginners, and shows the collaboration between humans and AI in the artistic process.
