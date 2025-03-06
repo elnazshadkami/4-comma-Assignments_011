@@ -42,7 +42,8 @@ I created a four-panel yonkoma  where a child’s drawing is ruined by spilled w
 
 *Figure 1.
 
-My idea is that AI can help more people create art, even if they are not artists. It is not just for experts,anyone can use it to explore their creativity and bring their ideas to life. With AI tools, even beginners can make unique and expressive artwork, enhance their stories, and experiment with creative ideas more easily. However, sometimes AI made mistakes, so adjustments were needed to improve the results.
+AI can help more people create and fix drawings, even if they are not artists. It is not only for experts—anyone can use it to explore ideas and make art. With AI, beginners can repair pictures, create characters, and improve their stories. People also work with AI by giving instructions and making changes to get better results. But sometimes, AI makes mistakes, so fixing is needed.
+
 <!-- Abstract -->
 ## Abstract
 This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawing is fixed using DALL·E 3 and Visual ChatGPT. AI is not only for automation but also supports creativity. It makes artistic work easier, helps beginners, and improves storytelling. Future research will develop AI for even better results.
